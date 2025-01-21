@@ -1,0 +1,5 @@
+awscli #for aws s3 download
+ipykernel #for jupyter notebook
+confluent-kafka #for kafka streaming
+pandas #for data manipulation
+pyarrow #for parquet file format
