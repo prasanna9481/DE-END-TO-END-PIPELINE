@@ -4,3 +4,6 @@ pandas #for data manipulation
 pyarrow #for parquet file format
 duckdb #for sql queries
 pyspark #for spark
+snowflake-connector-python #for snowflake
+dotenv-python #for environment variables
+ipywidgets #for interactive widgets
